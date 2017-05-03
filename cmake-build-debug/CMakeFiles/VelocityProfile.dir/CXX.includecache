@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/osboxes/catkin_ws/src/path_velocity_profiler/src/VelocityProfile.cpp
+VelocityProfile.h
+/home/osboxes/catkin_ws/src/path_velocity_profiler/src/VelocityProfile.h
+
+/home/osboxes/catkin_ws/src/path_velocity_profiler/src/VelocityProfile.h
+VelocityProfilePoint.h
+/home/osboxes/catkin_ws/src/path_velocity_profiler/src/VelocityProfilePoint.h
+
+/home/osboxes/catkin_ws/src/path_velocity_profiler/src/VelocityProfilePoint.h
+vector
+-
+

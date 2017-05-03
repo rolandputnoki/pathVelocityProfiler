@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: path_velocity_profiler
+Description: Description of path_velocity_profiler
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: path_sampler roscpp std_msgs

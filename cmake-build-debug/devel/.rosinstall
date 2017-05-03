@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/osboxes/catkin_ws/src/path_velocity_profiler/cmake-build-debug/devel/setup.sh

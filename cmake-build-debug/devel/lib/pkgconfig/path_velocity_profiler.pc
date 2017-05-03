@@ -1,0 +1,8 @@
+prefix=/home/osboxes/catkin_ws/src/path_velocity_profiler/cmake-build-debug/devel
+
+Name: path_velocity_profiler
+Description: Description of path_velocity_profiler
+Version: 0.0.0
+Cflags: -I/home/osboxes/catkin_ws/src/path_velocity_profiler/cmake-build-debug/devel/include
+Libs: -L/home/osboxes/catkin_ws/src/path_velocity_profiler/cmake-build-debug/devel/lib 
+Requires: path_sampler roscpp std_msgs
