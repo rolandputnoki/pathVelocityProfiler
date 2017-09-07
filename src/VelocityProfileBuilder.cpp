@@ -9,12 +9,12 @@ using namespace path_sampler;
 
 
 
-/*
+
 void VelocityProfileBuilder::setModel(std::unique_ptr<Model> model){
     this->model = std::move(model);
 }
 
- */
+
 
 double VelocityProfileBuilder::getEndSpeed() {
     return this->finalSpeed;
@@ -23,19 +23,25 @@ double VelocityProfileBuilder::getEndSpeed() {
 
 VelocityProfileBuilder::VelocityProfileBuilder(SampledSection sampledSection) {
     int path_lenght = sampledSection.sample_points.size();
-    PointMassDragModel pmd;
-    this->setModel(pmd);
+//    PointMassDragModel pmd;
+//    this->setModel(pmd);
+    this->setModel(std::make_unique<PointMassDragModel>());
+    this->finalSpeed = 0;
+    this->startSpeed = 0;
     for(int i=0; i< path_lenght; i++ ){
-        double max_vel = this->model.getCriticalVelocity(sampledSection.sample_points[i].curvature);
+        double curv = sampledSection.sample_points[i].curvature;
+        double max_vel = this->model->getCriticalVelocity(curv);
         double distance = sampledSection.sample_points[i].position;
-        VelocityProfilePoint vpp(distance,max_vel);
+        VelocityProfilePoint vpp(distance,max_vel,curv);
         this->maxVelProfile.pushBackPoint(vpp);
     }
 }
 
+/*
 void VelocityProfileBuilder::setModel(PointMassDragModel pmd) {
     this->model = pmd;
 }
+*/
 
 
 VelocityProfileBuilder::VelocityProfileBuilder(std::string filename) {
@@ -45,7 +51,7 @@ VelocityProfileBuilder::VelocityProfileBuilder(std::string filename) {
     fp = fopen(filename.c_str(),"r");
     double distance, radius,velocity;
     while( fscanf(fp, "%lf,%lf\n", &distance, &radius) != EOF){
-        velocity = this->model.getCriticalVelocity(1/radius);
+        velocity = this->model->getCriticalVelocity(1/radius);
         VelocityProfilePoint v(distance, velocity, (1/radius));
 //        VelocityProfilePoint c(distance, 1/radius);
 //        this->curvature.pushBackPoint(c);
@@ -90,14 +96,14 @@ void VelocityProfileBuilder::collectLocalMinima() {
 void VelocityProfileBuilder::buildSubProfileForward(size_t index)
 {
     VelocityProfile& subProfile = subProfiles.back();
-    model.setState(localMinima[index]);
+    model->setState(localMinima[index]);
     for(size_t i = index; i < localMinima.size()-1; i++) {
-        while(model.getState().distance < localMinima[i+1].distance ) {
-            subProfile.addProfilePoint(model.getState());
-            model.stepForwardOptimal(maxVelProfile.getCurvature(model.getState().distance));
+        while(model->getState().distance < localMinima[i+1].distance ) {
+            subProfile.addProfilePoint(model->getState());
+            model->stepForwardOptimal(maxVelProfile.getCurvature(model->getState().distance));
         }
 
-        if(model.getState().velocity >= localMinima[i+1].velocity)
+        if(model->getState().velocity >= localMinima[i+1].velocity)
             break;
     }
 }
@@ -105,14 +111,14 @@ void VelocityProfileBuilder::buildSubProfileForward(size_t index)
 void VelocityProfileBuilder::buildSubProfileBackward(size_t index)
 {
     VelocityProfile& subProfile = subProfiles.back();
-    model.setState(localMinima[index]);
+    model->setState(localMinima[index]);
     for(size_t i = index; i > 0; i--) {
-        while(model.getState().distance > localMinima[i-1].distance ) {
-            subProfile.addProfilePoint(model.getState());
-            model.stepBackwardOptimal(maxVelProfile.getCurvature(model.getState().distance));
+        while(model->getState().distance > localMinima[i-1].distance ) {
+            subProfile.addProfilePoint(model->getState());
+            model->stepBackwardOptimal(maxVelProfile.getCurvature(model->getState().distance));
         }
 
-        if(model.getState().velocity >= localMinima[i-1].velocity)
+        if(model->getState().velocity >= localMinima[i-1].velocity)
             break;
     }
     subProfile.invert();

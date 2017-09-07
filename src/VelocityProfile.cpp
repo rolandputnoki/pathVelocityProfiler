@@ -104,22 +104,6 @@ int VelocityProfile::isLocalMinimum(size_t index) {
 }
 
 
-int VelocityProfile::isLocalMinimum2(size_t index) {
-    double prevVel, nextVel, curVel;
-    prevVel = getMaxVelAtIndex(index-1);
-    nextVel = getMaxVelAtIndex(index+1);
-    curVel  = getMaxVelAtIndex(index);
-
-    double curDist, prevDist;
-    curDist = getPosAtIndex(index);
-    prevDist = getPosAtIndex(index);
-    if(curVel < prevVel && curVel < nextVel){
-        return 1;
-    } else {
-        return 0;
-    }
-}
-
 //A profil végére szúr ey pontot
 void VelocityProfile::addProfilePoint(const VelocityProfilePoint & point) {
     this->profilePoints.push_back(point);
@@ -341,7 +325,7 @@ void VelocityProfile::calculateTime() {
         double delta_v = v2 - v1;
         double delta_x = x2 - x1;
 
-        double delta_t (delta_x/(v1 + delta_v/2));
+        double delta_t = (delta_x/(v1 + delta_v/2));
         profilePoints[i+1].time = profilePoints[i].time + delta_t;
     }
 }

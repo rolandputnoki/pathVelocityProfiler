@@ -20,8 +20,8 @@
 using namespace path_sampler;
 
 class VelocityProfileBuilder {
-//    std::unique_ptr<Model> model;
-    PointMassDragModel model;
+    std::unique_ptr<Model> model;
+//    PointMassDragModel model;
     double startSpeed;
     double finalSpeed;
     std::vector<VelocityProfilePoint> localMinima;
@@ -32,8 +32,8 @@ public:
     VelocityProfileBuilder();
     VelocityProfileBuilder(std::string filename);
     VelocityProfileBuilder(SampledSection sampledSection);
-//    void setModel(std::unique_ptr<Model> model);
-    void setModel(PointMassDragModel pmd);
+    void setModel(std::unique_ptr<Model> model);
+//    void setModel(PointMassDragModel pmd);
     void collectLocalMinima();
     double getStartSpeed();
     double getEndSpeed();

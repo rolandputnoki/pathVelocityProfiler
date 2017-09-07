@@ -53,6 +53,7 @@ void velocity_profiler_Callback(SampledPath sp){
 
      */
 
+
     for(size_t i = 0; i< num_of_sections; i++){
         VelocityProfileBuilder vpb(sp.sections[i]);
         vpb.maxVelProfile.writePointsToFile(1000 + i);
@@ -71,7 +72,16 @@ void velocity_profiler_Callback(SampledPath sp){
         pv.pathProfile.push_back(vp);
     }
 
-
+    ros::NodeHandle n3;
+    ros::Publisher path_pub = n3.advertise<path_velocity_profiler::PathVelProfile>("path_vel_profile", 100);
+    path_pub.publish(pv);
+    ros::spin();
+/*
+    VelocityProfileBuilder vpb(sp.sections[0]);
+    vpb.maxVelProfile.writePointsToFile(1000 + 3);
+    vpb.build();
+    vpb.finalProfile.writePointsToFile(2000 + 3);
+*/
     ROS_INFO("Hello!");
 
     /*

@@ -32,6 +32,9 @@ void PointMassDragModel::stepForward(double u, double curvature)
     auto delta = calculateDelta(u, curvature);
     currentState.distance += delta.distance;
     currentState.velocity += delta.velocity;
+    if(currentState.velocity > maxVelocity){
+        currentState.velocity = maxVelocity;
+    }
 }
 
 void PointMassDragModel::stepBackward(double u, double curvature)
@@ -39,6 +42,9 @@ void PointMassDragModel::stepBackward(double u, double curvature)
     auto delta = calculateDelta(u, curvature);
     currentState.distance -= delta.distance;
     currentState.velocity -= delta.velocity;
+    if(currentState.velocity > maxVelocity){
+        currentState.velocity = maxVelocity;
+    }
 }
 
 

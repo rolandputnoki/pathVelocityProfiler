@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/PointMassDragModel.cpp" line="54" />
+    <bookmark url="file://$PROJECT_DIR$/src/PointMassDragModel.cpp" line="60" />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
     <generated>
-      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="main" />
-      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_geneus" />
-      <config projectName="path_velocity_profiler" targetName="VelocityProfileBuilder" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_genlisp" />
-      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="download_extra_data" />
-      <config projectName="path_velocity_profiler" targetName="profileBuilding" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="gtest_main" />
-      <config projectName="path_velocity_profiler" targetName="tests" />
-      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_genpy" />
       <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_lisp" />
       <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="_path_velocity_profiler_generate_messages_check_deps_PathVelProfile" />
-      <config projectName="path_velocity_profiler" targetName="clean_test_results" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="_path_velocity_profiler_generate_messages_check_deps_VelProf" />
-      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="gtest" />
-      <config projectName="path_velocity_profiler" targetName="_catkin_empty_exported_target" />
-      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_gencpp" />
-      <config projectName="path_velocity_profiler" targetName="VelocityProfilePoint" />
-      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_gennodejs" />
-      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_nodejs" />
-      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_eus" />
       <config projectName="path_velocity_profiler" targetName="doxygen" />
-      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_py" />
-      <config projectName="path_velocity_profiler" targetName="run_tests" />
-      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_gencpp" />
+      <config projectName="path_velocity_profiler" targetName="profileBuilding" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="download_extra_data" />
+      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_lisp" />
       <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="path_velocity_profiler" targetName="_path_velocity_profiler_generate_messages_check_deps_VelProfPoint" />
+      <config projectName="path_velocity_profiler" targetName="run_tests" />
+      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_genpy" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_geneus" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="_path_velocity_profiler_generate_messages_check_deps_PathVelProfile" />
+      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="VelocityProfilePoint" />
+      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="tests" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="clean_test_results" />
       <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_lisp" />
-      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_cpp" />
-      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="_path_velocity_profiler_generate_messages_check_deps_VelProf" />
+      <config projectName="path_velocity_profiler" targetName="VelocityProfileBuilder" />
       <config projectName="path_velocity_profiler" targetName="VelocityProfile" />
+      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="gtest" />
+      <config projectName="path_velocity_profiler" targetName="_path_velocity_profiler_generate_messages_check_deps_VelProfPoint" />
+      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_gennodejs" />
+      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="gtest_main" />
+      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages" />
+      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_cpp" />
+      <config projectName="path_velocity_profiler" targetName="main" />
+      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="path_velocity_profiler" targetName="path_velocity_profiler_genlisp" />
+      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="actionlib_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="path_velocity_profiler" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="path_sampler_generate_messages_py" />
+      <config projectName="path_velocity_profiler" targetName="_catkin_empty_exported_target" />
+      <config projectName="path_velocity_profiler" targetName="robot_editor_generate_messages_eus" />
+      <config projectName="path_velocity_profiler" targetName="tf_generate_messages_cpp" />
     </generated>
   </component>
   <component name="CMakeSettings" ADDITIONAL_BUILD_OPTIONS="-j 4">
@@ -95,7 +95,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7b969d2-ab4b-4ab6-9f06-0374190514f1" name="Default" comment="" />
+    <list default="true" id="a7b969d2-ab4b-4ab6-9f06-0374190514f1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PointMassDragModel.cpp" afterPath="$PROJECT_DIR$/src/PointMassDragModel.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VelocityProfile.cpp" afterPath="$PROJECT_DIR$/src/VelocityProfile.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VelocityProfileBuilder.cpp" afterPath="$PROJECT_DIR$/src/VelocityProfileBuilder.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VelocityProfileBuilder.h" afterPath="$PROJECT_DIR$/src/VelocityProfileBuilder.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/conf.h" afterPath="$PROJECT_DIR$/src/conf.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profileBuilding.cpp" afterPath="$PROJECT_DIR$/src/profileBuilding.cpp" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/../../build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,11 +119,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="profileBuilding.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="profileBuilding.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/profileBuilding.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="651">
+              <caret line="112" column="1" lean-forward="false" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
               <folding>
                 <element signature="e#42#62#0" expanded="true" />
               </folding>
@@ -123,11 +131,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PathVelProfile.msg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msg/PathVelProfile.msg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="VelocityProfile.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VelocityProfile.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4969">
-              <caret line="90" column="29" lean-forward="true" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+            <state relative-caret-position="416">
+              <caret line="317" column="39" lean-forward="false" selection-start-line="317" selection-start-column="39" selection-end-line="317" selection-end-column="39" />
               <folding>
                 <element signature="e#42#70#0" expanded="true" />
               </folding>
@@ -135,11 +153,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VelocityProfileBuilder.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VelocityProfileBuilder.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/VelocityProfileBuilder.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+            <state relative-caret-position="-3241">
+              <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VelocityProfileBuilder.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VelocityProfileBuilder.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-147">
+              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointMassDragModel.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PointMassDragModel.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -164,7 +202,12 @@
       <find>get</find>
       <find>getP</find>
       <find>getPosAtIndex</find>
+      <find>FILE</find>
+      <find>getCriticalVelocity</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -172,20 +215,20 @@
         <option value="$PROJECT_DIR$/package.xml" />
         <option value="$PROJECT_DIR$/src/main.cpp" />
         <option value="$PROJECT_DIR$/src/Model.h" />
-        <option value="$PROJECT_DIR$/src/PointMassDragModel.h" />
         <option value="$PROJECT_DIR$/src/VelocityProfilePoint.cpp" />
         <option value="$PROJECT_DIR$/src/Model.cpp" />
-        <option value="$PROJECT_DIR$/src/PointMassDragModel.cpp" />
-        <option value="$PROJECT_DIR$/src/conf.h" />
         <option value="$PROJECT_DIR$/src/ProfileCrossSection.h" />
         <option value="$PROJECT_DIR$/src/ProfileCrossSection.cpp" />
         <option value="$PROJECT_DIR$/src/VelocityProfilePoint.h" />
-        <option value="$PROJECT_DIR$/src/VelocityProfileBuilder.h" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/src/VelocityProfile.h" />
-        <option value="$PROJECT_DIR$/src/VelocityProfile.cpp" />
+        <option value="$PROJECT_DIR$/src/PointMassDragModel.h" />
+        <option value="$PROJECT_DIR$/src/conf.h" />
+        <option value="$PROJECT_DIR$/src/VelocityProfileBuilder.h" />
         <option value="$PROJECT_DIR$/src/VelocityProfileBuilder.cpp" />
         <option value="$PROJECT_DIR$/src/profileBuilding.cpp" />
+        <option value="$PROJECT_DIR$/src/VelocityProfile.cpp" />
+        <option value="$PROJECT_DIR$/src/PointMassDragModel.cpp" />
       </list>
     </option>
   </component>
@@ -198,8 +241,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="width" value="1501" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -257,6 +300,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="path_velocity_profiler" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="path_velocity_profiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="path_velocity_profiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msg" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -884,28 +945,29 @@
       <workItem from="1490619594944" duration="25680000" />
       <workItem from="1491252907892" duration="41965000" />
       <workItem from="1492014084781" duration="79333000" />
-      <workItem from="1493764840258" duration="8729000" />
+      <workItem from="1493764840258" duration="16367000" />
+      <workItem from="1494679178039" duration="20118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159709000" />
+    <option name="totallyTimeSpent" value="187465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="24" width="1501" height="867" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30846104" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3407935" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33712122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39572737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48989898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -926,58 +988,30 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/src/profileBuilding.cpp</url>
-          <line>74</line>
+          <line>84</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/src/VelocityProfileBuilder.cpp</url>
-          <line>169</line>
+          <line>175</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/VelocityProfileBuilder.cpp</url>
+          <line>24</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/VelocityProfileBuilder.cpp</url>
+          <line>120</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="53" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/profileBuilding.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VelocityProfile.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10542">
-          <caret line="502" column="0" lean-forward="false" selection-start-line="502" selection-start-column="0" selection-end-line="502" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/profileBuilding.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#42#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VelocityProfile.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1617">
@@ -1009,7 +1043,7 @@
         <state relative-caret-position="462">
           <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
-            <element signature="e#141#174#0" expanded="true" />
+            <element signature="e#141#174#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1063,7 +1097,7 @@
         <state relative-caret-position="147">
           <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
-            <element signature="e#141#174#0" expanded="true" />
+            <element signature="e#141#174#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1152,14 +1186,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/boost/function/function_template.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/5/bits/move.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -1174,46 +1200,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/c++/5/ext/new_allocator.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/5/bits/alloc_traits.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="529" column="0" lean-forward="false" selection-start-line="529" selection-start-column="0" selection-end-line="529" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/5/bits/stl_algobase.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="226" column="0" lean-forward="false" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PointMassDragModel.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1231,29 +1221,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PointMassDragModel.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="61" column="27" lean-forward="true" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VelocityProfilePoint.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProfileCrossSection.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1261,44 +1228,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="565" column="0" lean-forward="false" selection-start-line="565" selection-start-column="0" selection-end-line="565" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/5/bits/stl_iterator.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
           <caret line="753" column="0" lean-forward="false" selection-start-line="753" selection-start-column="0" selection-end-line="753" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VelocityProfilePoint.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VelocityProfileBuilder.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VelocityProfile.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="6" />
-          <folding>
-            <element signature="e#141#174#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1310,31 +1243,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VelocityProfile.cpp">
+    <entry file="file://$PROJECT_DIR$/../../devel/include/path_sampler/SampledSection.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4969">
-          <caret line="90" column="29" lean-forward="true" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
-          <folding>
-            <element signature="e#42#70#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VelocityProfileBuilder.cpp">
+    <entry file="file:///opt/ros/kinetic/include/geometry_msgs/PoseArray.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+        <state relative-caret-position="273">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/std_msgs/Header.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/ext/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="559" column="0" lean-forward="false" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/function/function_template.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2687">
+          <caret line="781" column="23" lean-forward="true" selection-start-line="781" selection-start-column="23" selection-end-line="781" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conf.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VelocityProfilePoint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VelocityProfile.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VelocityProfilePoint.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="426" column="9" lean-forward="true" selection-start-line="426" selection-start-column="9" selection-end-line="426" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PointMassDragModel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/unique_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="299" column="0" lean-forward="false" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VelocityProfileBuilder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/profileBuilding.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="651">
+          <caret line="112" column="1" lean-forward="false" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
           <folding>
             <element signature="e#42#62#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msg/PathVelProfile.msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VelocityProfile.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="317" column="39" lean-forward="false" selection-start-line="317" selection-start-column="39" selection-end-line="317" selection-end-column="39" />
+          <folding>
+            <element signature="e#42#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PointMassDragModel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VelocityProfileBuilder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3241">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
